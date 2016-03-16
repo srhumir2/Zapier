@@ -6,7 +6,7 @@ output: html_document
 ---
 Dear 
 
-{\bf appplying for the the data sciense position}
+{\bf applying for the the data science position}
 
 I am doing the last steps of my doctorate in mathematics. I have been doing research and teaching in the my field of study from when  was doing my master. Alongside I did cooperate with experts in other fields including economists and urban planners.
 
