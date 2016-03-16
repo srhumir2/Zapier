@@ -10,3 +10,5 @@ I am doing the last steps of my doctorate in mathematics. I have been doing rese
 
 To name some, I developed an algorithm for assessing accessibility in a big city using the big graphs and programmed it in MatLab. I am familiar with remote sensing techniques and help urban planners running them as well. With economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling.
 
+I would like to enter the business as my next job and found the data analysis really interesting and relative as I already have most of its theoretical background. I am a good independent fast leaner. During the last couple of months I learned R programming and using it in data analysis. I am 
+
