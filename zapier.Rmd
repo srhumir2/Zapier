@@ -1,0 +1,9 @@
+---
+title: "Trainee request"
+author: "Reza"
+date: "March 16, 2016"
+output: pdf_document
+---
+Dear l;fkks
+I am doing the last steps of my doctorate in mathematics. I have been doing reserch and teaching in the my field of study from the time of master study. Alongside I did cooperate with with expertees of other fields including economists and urban planners.
+
