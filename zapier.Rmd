@@ -2,8 +2,11 @@
 title: "Trainee request"
 author: "Reza"
 date: "March 16, 2016"
-output: pdf_document
+output: html_document
 ---
 Dear l;fkks
-I am doing the last steps of my doctorate in mathematics. I have been doing reserch and teaching in the my field of study from the time of master study. Alongside I did cooperate with with expertees of other fields including economists and urban planners.
+
+I am doing the last steps of my doctorate in mathematics. I have been doing research and teaching in the my field of study from the time of master study. Alongside I did cooperate with with experts of other fields including economists and urban planners.
+
+To name some, I developed an algorithm for assessing accessibility in a big city using the big graphs and programmed it in MatLab. I am familiar with remote sensing techniques and help urban planners running them as well. With economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling.
 
