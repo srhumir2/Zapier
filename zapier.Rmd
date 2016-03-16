@@ -6,15 +6,15 @@ output: html_document
 ---
 Dear 
 
-I am doing the last steps of my doctorate in mathematics. I have been doing research and teaching in the my field of study from the time of master study. Alongside I did cooperate with with experts of other fields including economists and urban planners.
+{\bf appplying for the the data sciense position}
 
-To name some, I developed an algorithm for assessing accessibility in a big city using the big graphs and programmed it in MatLab. I am familiar with remote sensing techniques as well and help urban planners running them. With economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling. As well I designed a data bank for their scientific papers.
+I am doing the last steps of my doctorate in mathematics. I have been doing research and teaching in the my field of study from when  was doing my master. Alongside I did cooperate with experts in other fields including economists and urban planners.
 
-I already am very good 
+To name some, I developed an algorithm for assessing accessibility in a big city using big graphs and programmed it in MatLab. I am familiar with remote sensing techniques  as well, which are by nature statistical, and help urban planners running them. With economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling. Also I designed a data bank for their scientific papers.
 
 I would like to enter the business sector as my next job and found the data analysis really interesting and perfectly fitted to me as I already have most of the theoretical background. I am a good independent fast leaner. During the last couple of months I learned R programming and using it in data analysis as well as SQL. Plus I already am familiar with Python and would like to learn it more deeply. 
 
-In R I love the dplyr and data.table packages for their fast and efficient capability of cleaning and summarizing the data. raster is a very nice package for working with grid ?data?. For plotting one should not underestimate the base plotting system of R but whenever it is too coding needed using it, I prefer to use ggplot2. Rmarkdown in combination with LaTex is a great tool for making reports. In machine learning techniques, neural network is really good however sometimes I found it is too slow. Random forest worked quite good. 
+In R I love the "dplyr"" and "data.table" packages for their fast and efficient capability of cleaning and summarizing the data. "raster"" is a very nice package for working with grid ?data?. For plotting one should not underestimate the base plotting system of R but whenever it is too much coding needed using it, I prefer to use "ggplot2". Rmarkdown in combination with LaTex is a great tool for making reports. In machine learning techniques, neural network is really good however sometimes I found it is too slow. Random forest worked quite good. 
 
 As I agree that my resume might not be yet convincing for you to give me a full job, I would like to propose a two-month unpaid remote trainee program. I would do the jobs you expect from a data analyst. I am sure I can rapidly learn whatever technique needed for the job and I haven't learned yet. After two month I would have a job or at least a priceless experience working with your company.
 
