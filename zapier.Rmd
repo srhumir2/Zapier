@@ -6,8 +6,6 @@ output: html_document
 ---
 Dear 
 
-
-
 I am doing the last steps of my doctorate in mathematics. I have been doing research and teaching in the my field of study from the time I was doing my master. Alongside I did cooperate with experts in other fields including economists and urban planners.
 
 To name some, I developed an algorithm for assessing accessibility in cities using big graphs and programmed it in MatLab. I am familiar with by nature statistical techniques of remote sensing as well, and help urban planners running them. With economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling. Also I designed a data bank for their scientific papers.
@@ -17,6 +15,10 @@ I would like to enter the business sector as my next job and found the data anal
 You can find some works of mine in my [github account](github.com/srhumir)
 
 In R I love the "dplyr"" and "data.table" packages for their fast and efficient capability of cleaning and summarizing the data. "raster" is a very nice package for working with grid ?data?. For plotting one should not underestimate the base plotting system of R but whenever it is too much coding needed using it, I prefer to use "ggplot2". Rmarkdown in combination with LaTex is a great tool for making reports. In machine learning techniques, neural network is really good however sometimes I found it is too slow. Random forest worked quite good. 
+
+###Explanation of a work
+MODIS is a sttaelite which provide information on land surface temprature (LST) and the vegetation conditon index (NDVI) of varios parts of the earth surface in one week intervals. It's problem in that it is realy corce, with resolution of 960m for LST. On the other hand we had an image of the SPOT sattelite of 1.5m resolution which unfortunately does not provide LST information but fortunately provide enought data for computing NDVI. It is known that NDVI and LST have an inverse relationship. We use this fact to copmute LST for SPOT. 
+
 
 As I agree that my resume might not be yet convincing for you to give me a full job, I would like to propose a two-month unpaid remote trainee program. I would do the jobs you expect from a data analyst. I am sure I can rapidly learn whateve needed for the job and I haven't learned yet. After two month I would have a job or at least a priceless experience working with your company.
 
