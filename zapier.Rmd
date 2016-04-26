@@ -18,7 +18,7 @@ In terms of transferable skills, I learned how to translate real world problems 
 In R I love the "dplyr"" and "data.table" packages for their fast and efficient capability of cleaning and summarizing the data. "raster" is a very nice package for working with grid ?data?. For plotting one should not underestimate the base plotting system of R but whenever it is too much coding needed using it, I prefer to use "ggplot2". Rmarkdown in combination with LaTex is a great tool for making reports. In machine learning techniques, neural network is really good however sometimes I found it is too slow. Random forest worked quite good.
 
 
-As because of my thesis work, I do can not yet work full time plus a the experience of working with your  
+As because of my thesis work, I can not yet work full time plus working with the interesting, creative and creditable Zapier is a huge oportunity to earn invaluable experiemce and credit for my 
 As I understand that my resume might not be yet convincing to give me a full job, I would like to propose a two-month unpaid remote trainee program. I would do the jobs you expect from a data analyst. I am sure I can rapidly learn whatever needed for the job and I haven't learned yet. After then I would have a job or at least a priceless experience working with Zapier.
 
 Enclosed please find my resume and a sample report of a work of mine. I am looking forward to hearing from you and ready to start from April.
