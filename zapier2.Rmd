@@ -1,0 +1,31 @@
+---
+title: "Applying for the data science position"
+author: "Reza"
+header-includes:
+   - \usepackage{xcolor}
+date: "April 07, 2016"
+output: pdf_document
+---
+
+Dear 
+
+I am writing to express my interest in working with Zapier as data scientist. I am currently doing the last steps of doctorate in Mathematics in FSU Jena Germany. I have four years experience as research employee and my research is about representation of algebraic groups. Also I have five years teaching experience plus several years of cooperating experience with experts in other fields including urban planners and economists.
+
+In terms of my working experience as well as teaching various subject of mathematics from abstract and linear algebra to differential equations and analysis, I cooperated with urban planners to develop an algorithm for assessing accessibility in cities using big graphs and I programmed it in MatLab. Through which I gained experience in spatial analysis especially working with ArcGIS software package. I also am familiar with, by nature statistical, techniques of remote sensing, and help urban planners running them through R programming. Together with economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling.
+
+Now after several years of mainly doing academic jobs, I would like to enter to a more practical yet active sector and found the data analysis really interesting and perfectly fitted to my theoretical background. In the university and other training, I did several courses in Statistics, Statistical inference, Operational Research, Philosophy of science, Exploratory Data Analysis,  Machine learning, Introduction to Big Data, Programming and Data structures as well as data banks and SQL. Through these courses, I got familiar with randomized control trials, bootstrapping, parametric analysis with various distribution, Hadoop etc. I am already advanced in R programming and familiar with python with interest in learning them more deeply. Some works of mine are available in my [\textcolor{blue}{\underline{github page}}](https://github.com/srhumir). 
+
+In terms of transferable skills, I learned how to translate real world problems into mathematical statements and vice versa through research as well as cooperation with other areas. I am confident in my analyzing and problem solving abilities as key skills in mathematics. I did cooperated with teams of different scientific and social backgrounds. Also for several years I thought mathematics to students of various scientific and social backgrounds through which you have to be enormously patient, friendly and understanding as well as being able to express complicated problems in understandable manners. Last but not least, I am an independent fast leaner and capable of finding the way the jobs are done using online resources.
+
+
+In R I love the "dplyr"" and "data.table" packages for their fast and efficient capability of cleaning and summarizing the data. "raster" is a very nice package for working with grid ?data?. For plotting one should not underestimate the base plotting system of R but whenever there is too much coding needed using it, I prefer to use "ggplot2"."caret" is a great package gatehring machine learning techniques and whatever preprocessing needed in one place. Rmarkdown in combination with LaTex is a great tool for making reports. 
+
+
+Because of my thesis work, I can not yet work full time.  Plus working with the interesting, creative and creditable Zapier is a huge oportunity to earn invaluable experiment and credit for my career prospect. So I would like to propose a two-month unpaid remote trainee program. I would do the jobs you expect from a data analyst. I am sure I can rapidly learn whatever needed for the job and I haven't learned yet.
+
+Enclosed please find my resume and a sample report of a work of mine. I am looking forward to hearing from you and ready to start at at s soon as needed.
+
+
+With highest regards
+
+Reza Hosseini
