@@ -1,0 +1,80 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{red}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc} % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Seyed Reza}{Hosseni}
+\title{}                               % optional, remove / comment the line if not wanted
+\address{Ewald-G\"orshop-Str. 40}{44149 Dortmund}{Germany}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+49~(176)~8693~7668}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{srezahosseini@web.de}                               % optional, remove / comment the line if not wanted
+%\homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{METRO AG}{Metro-Stra\ss e 1\\40235 D\"usseldorf}
+\date{May 17, 2016}
+\opening{\textbf{Applying for  Strategic Research Internship (Reference number: M/16-00076)}\\Dear Mrs. Katharina Poschen,}
+\closing{With Highest Regards,}
+\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+\makelettertitle
+
+I am writing to express my interest in spending an internship with Metro AG in strategic research. I am currently doing the last steps of doctorate in Mathematics in FSU Jena Germany. I have four years experience as research employee and five years teaching experience as well as several years of cooperation with experts in other fields including urban planning and economists.
+
+Now after several years of mainly doing academic jobs, I would like to enter into a more practical yet active sector and found the business analysis really interesting and perfectly fitted to my theoretical background. I did several courses in Statistics, Statistical inference, Operational Research, Exploratory Data Analysis,  Machine learning, Introduction to Big Data, Programming and Data structures as well as data banks and SQL. I am already expert in MS Office intermediate in R and familiar with python. Some works of mine are available in my [github page]{https://github.com/srhumir}. 
+
+In terms of working experience, I have thought various topics of mathematics from linear algebra to differential equations and analysis. I also cooperated with urban planners to develop algorithms for assessing accessibility in cities using big graphs and I programmed it in MatLab. Through which I gained experience in spatial analysis especially working with ArcGIS software package. I also am familiar with, by nature statistical, techniques of remote sensing, and help urban planners running them through R programming. Furthermore, with economists, we studied financial derivatives with aim of understanding their nature and their relationship with gambling.
+
+In terms of transferable skills, I learned how to translate real world problems into mathematical statements and vice versa as the key as well as cooperation with other areas. I am confident in my analyzing and problem solving abilities as key skills in mathematics. I did cooperated with teams of different scientific and social backgrounds. Also for several years I thought mathematics to students of various scientific and social backgrounds through which you have to be enormously patient, friendly and understanding as well as being able to express complicated problems in understandable manners. Last but not least, I am an independent fast leaner and capable of finding the way the jobs are done using online resources.
+
+Because of my thesis work, I can not yet work full time.  Plus working with the interesting, creative and creditable Zapier is a huge opportunity to earn invaluable experiment and credit for my career prospect. So I would like to propose a two-month unpaid remote trainee program. I would do the jobs you expect from a data analyst. I am sure I can rapidly learn whatever needed for the job and I haven't learned yet.
+
+Enclosed please find my resume and a sample report of a work of mine. I am looking forward to hearing from you and ready to start at at s soon as needed.
+
+ I appreciate your time and consideration and am looking forward to meet you as your first convinience. I am reachable through abovely mensioned email address and cell number.
+ \vspace{3mm}
+ 
+\makeletterclosing
+\end{document}
+
+
+%% end of file `template.tex'.
