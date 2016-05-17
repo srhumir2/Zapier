@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  17 MAY 2016 14:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  17 MAY 2016 19:59
 entering extended mode
 **./metro.tex
 (metro.tex
@@ -887,29 +887,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 62.
 
-<signature.png, id=5, 265.59225pt x 84.91725pt>
+<signature.png, id=4, 265.59225pt x 84.91725pt>
 File: signature.png Graphic file (type png)
  <use signature.png>
-Package pdftex.def Info: signature.png used on input line 76.
+Package pdftex.def Info: signature.png used on input line 91.
 (pdftex.def)             Requested size: 142.26378pt x 45.48793pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
  [1
 
 {C:/Users/Hanireza/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./signat
 ure.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
 (metro.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
 Package rerunfilecheck Info: File `metro.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18625 strings out of 493634
- 310980 string characters out of 3141305
- 390342 words of memory out of 3000000
+ 18619 strings out of 493634
+ 310908 string characters out of 3141305
+ 389342 words of memory out of 3000000
  21816 multiletter control sequences out of 15000+200000
- 39031 words of font info for 56 fonts, out of 3000000 for 9000
+ 38728 words of font info for 53 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  40i,11n,45p,10359b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
@@ -917,9 +917,9 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/marvosym/marvosym.pfb>
-Output written on metro.pdf (1 page, 120807 bytes).
+Output written on metro.pdf (1 page, 119792 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  12806 words of extra memory for PDF output out of 14400 (max. 10000000)
 
