@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  17 MAY 2016 12:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  17 MAY 2016 13:06
 entering extended mode
 **./metro.tex
 (metro.tex
@@ -620,8 +620,12 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen145
 \Gm@dimlist=\toks18
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (633.78513pt) is ignored.
+
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
@@ -734,29 +738,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip77
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 53.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 53.
+Package hyperref Info: Option `breaklinks' set `true' on input line 54.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 54.
 
 (metro.aux)
 \openout1 = `metro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
-LaTeX Font Info:    ... okay on input line 53.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 53.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 54.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -774,7 +778,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \makeMPintoPDFobject=\count137
 \everyMPtoPDFconversion=\toks20
 )
-LaTeX Info: Redefining \microtypecontext on input line 53.
+LaTeX Info: Redefining \microtypecontext on input line 54.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -788,7 +792,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 53.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 54.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -807,14 +811,14 @@ Package microtype Info: Loading generic settings for font family
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(74.68848pt, 448.1309pt, 74.68849pt)
-* v-part:(T,H,B)=(84.50467pt, 633.78513pt, 126.75705pt)
+* v-part:(T,H,B)=(56.9055pt, 765.37906pt, 22.76228pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=448.1309pt
-* \textheight=633.78513pt
+* \textheight=765.37906pt
 * \oddsidemargin=2.41849pt
 * \evensidemargin=2.41849pt
-* \topmargin=-24.76532pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -833,7 +837,7 @@ Package microtype Info: Loading generic settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box43
-Package hyperref Info: Link coloring OFF on input line 53.
+Package hyperref Info: Link coloring OFF on input line 54.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -842,85 +846,80 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count138
 )
-LaTeX Info: Redefining \ref on input line 53.
-LaTeX Info: Redefining \pageref on input line 53.
-LaTeX Info: Redefining \nameref on input line 53.
+LaTeX Info: Redefining \ref on input line 54.
+LaTeX Info: Redefining \pageref on input line 54.
+LaTeX Info: Redefining \nameref on input line 54.
 
 (metro.out) (metro.out)
 \@outlinefile=\write3
 \openout3 = `metro.out'.
 
-\pagenumberwidth=\skip78
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 53.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\microtype\mt-mvs.cfg"
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 61.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 62.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 61.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 62.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 61.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 62.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 61.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 62.
 
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 61.
+(Font)              <10.95> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 61.
+(Font)              <8> on input line 62.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 61.
+(Font)              <6> on input line 62.
 
-<signature.png, id=6, 265.59225pt x 84.91725pt>
+<signature.png, id=5, 265.59225pt x 84.91725pt>
 File: signature.png Graphic file (type png)
  <use signature.png>
-Package pdftex.def Info: signature.png used on input line 77.
+Package pdftex.def Info: signature.png used on input line 76.
 (pdftex.def)             Requested size: 142.26378pt x 45.48793pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
  [1
 
-{C:/Users/Hanireza/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 77.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
- [2 <./signature.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
- (metro.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
+{C:/Users/Hanireza/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./signat
+ure.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+(metro.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `metro.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18621 strings out of 493634
- 310978 string characters out of 3141305
- 390322 words of memory out of 3000000
- 21821 multiletter control sequences out of 15000+200000
- 44206 words of font info for 53 fonts, out of 3000000 for 9000
+ 18631 strings out of 493634
+ 311046 string characters out of 3141305
+ 390342 words of memory out of 3000000
+ 21816 multiletter control sequences out of 15000+200000
+ 39334 words of font info for 59 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 40i,13n,45p,10359b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,11n,45p,10359b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/marvosym/marvosym.pfb>
-Output written on metro.pdf (2 pages, 122137 bytes).
+Output written on metro.pdf (1 page, 120623 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
- 14854 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 31 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
+ 12806 words of extra memory for PDF output out of 14400 (max. 10000000)
 
