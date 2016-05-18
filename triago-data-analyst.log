@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  18 MAY 2016 14:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.4.26)  18 MAY 2016 15:35
 entering extended mode
 **./triago-data-analyst.tex
 (triago-data-analyst.tex
@@ -888,7 +888,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 63.
 
-<signature.png, id=5, 265.59225pt x 84.91725pt>
+<signature.png, id=4, 265.59225pt x 84.91725pt>
 File: signature.png Graphic file (type png)
  <use signature.png>
 Package pdftex.def Info: signature.png used on input line 94.
@@ -907,7 +907,7 @@ Package rerunfilecheck Info: File `triago-data-analyst.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  18629 strings out of 493634
- 311192 string characters out of 3141305
+ 311190 string characters out of 3141305
  390409 words of memory out of 3000000
  21816 multiletter control sequences out of 15000+200000
  39371 words of font info for 57 fonts, out of 3000000 for 9000
@@ -918,9 +918,9 @@ iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files (x86)/MiKTeX 2.
 9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/ty
 pe1/public/marvosym/marvosym.pfb>
-Output written on triago-data-analyst.pdf (1 page, 116713 bytes).
+Output written on triago-data-analyst.pdf (1 page, 116412 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
  12806 words of extra memory for PDF output out of 14400 (max. 10000000)
 
